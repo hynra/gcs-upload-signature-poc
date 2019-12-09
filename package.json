@@ -1,0 +1,19 @@
+{
+  "name": "gcs-upload-signature-poc",
+  "version": "1.0.0",
+  "description": "gcs-upload-signature-poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hynra/gcs-upload-signature-poc.git"
+  },
+  "author": "Hendra Permana <hendra@wlb.co.id>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hynra/gcs-upload-signature-poc/issues"
+  },
+  "homepage": "https://github.com/hynra/gcs-upload-signature-poc#readme"
+}
